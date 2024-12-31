@@ -1,4 +1,4 @@
 # demo-file
 First Time
 <br>
-Author - Pranay Authankar
+Author - Pranay Jain
